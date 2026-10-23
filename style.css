@@ -1,0 +1,22 @@
+body {
+	text-align: center;
+  font-family: "Helvetica Neue", Arial, sans-serif;
+	background: rgb(182, 82, 82);
+	color: white
+}
+
+img{
+	border-radius: 20%;
+}
+
+img:hover {
+	filter: invert(100%);
+}
+
+#tristan {
+	width: 600px;
+}
+
+#cen10 {
+	width:600px;
+}
